@@ -1,0 +1,7 @@
+@import url('antd/dist/reset.css');
+
+#root {
+	height: 100vh;
+	height: -webkit-fill-available;
+}
+
